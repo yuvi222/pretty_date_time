@@ -1,8 +1,6 @@
 name: pretty_date_time
 description: A Dart utility package to convert DateTime objects into human-friendly strings like "5 minutes ago", "Yesterday", or "in 2 days".
 
-publish_to: none
-
 version: 0.0.1
 
 homepage: https://github.com/yuvi222/pretty_date_time
