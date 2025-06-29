@@ -1,0 +1,15 @@
+# Don't include test and example files
+test/
+example/
+assets/
+*.md.bak
+*.log
+*.tmp
+.idea/
+.vscode/
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
