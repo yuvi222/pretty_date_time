@@ -11,41 +11,41 @@ Add the following to your `pubspec.yaml` file:
 ```dart
 dependencies:
   pretty_date_time: ^0.0.1
----
+```
 
 Then run:
 
----dart
+```dart
 flutter pub get
-...
+```
 
 ## 🚀 Getting Started
 Import the package in your Dart file:
 
----dart
+```dart
 import 'package:pretty_date_time/pretty_date_time.dart';
-...
+```
 
 ## 🕒 Basic Example
 
----dart
+```dart
 final now = DateTime.now();
 print(prettyDateTime(now.subtract(Duration(minutes: 5)))); 
 // Output: "5 minutes ago"
 
 print(prettyDateTime(now.add(Duration(hours: 3)))); 
 // Output: "in 3 hours"
-...
+```
 
 ## ⏰ With Custom Reference Time
 
----dart
+```dart
 final reference = DateTime(2024, 01, 01, 12, 0, 0);
 final target = DateTime(2024, 01, 01, 11, 50, 0);
 
 print(prettyDateTime(target, reference: reference));
 // Output: "10 minutes ago"
-...
+```
 
 ## ✅ Features
 Supports past and future DateTime values
