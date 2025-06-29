@@ -4,9 +4,7 @@
   Convert <code>DateTime</code> into human-friendly readable strings like “Just now”, “Yesterday”, “in 3 days”, etc.
 </p>
 
----
-
-## 📦 Installation
+# 📦 Installation
 
 Add the following to your `pubspec.yaml` file:
 
@@ -28,7 +26,6 @@ Import the package in your Dart file:
 import 'package:pretty_date_time/pretty_date_time.dart';
 ...
 
-## ✨ Usage
 ## 🕒 Basic Example
 
 ---dart
