@@ -59,4 +59,4 @@ Works on Flutter and Dart CLI projects
 ## 💡 Contribution
 Pull requests and issues are welcome! If you find a bug or want a feature, feel free to open an issue or contribute.
 
-## Made with ❤️ by @yuvi222
+## Made with ❤️ by [yuvi222](https://github.com/yuvi222)
