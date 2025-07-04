@@ -10,7 +10,7 @@ Add the following to your `pubspec.yaml` file:
 
 ```dart
 dependencies:
-  pretty_date_time: ^0.0.1
+  pretty_date_time: ^0.0.3
 ```
 
 Then run:
@@ -58,5 +58,3 @@ Works on Flutter and Dart CLI projects
 
 ## 💡 Contribution
 Pull requests and issues are welcome! If you find a bug or want a feature, feel free to open an issue or contribute.
-
-## Made with ❤️ by [yuvi222](https://github.com/yuvi222)
